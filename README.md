@@ -1,2 +1,2 @@
 # banehogg
-a viking game 
+a classy viking game 
